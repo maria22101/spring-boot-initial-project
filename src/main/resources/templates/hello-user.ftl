@@ -1,5 +1,5 @@
 <#import "parts/common.ftl" as c>
 
 <@c.page>
-<h2>Hello from Spring Boot project practice!</h2>
+    <h2>Hello, USER!</h2>
 </@c.page>
